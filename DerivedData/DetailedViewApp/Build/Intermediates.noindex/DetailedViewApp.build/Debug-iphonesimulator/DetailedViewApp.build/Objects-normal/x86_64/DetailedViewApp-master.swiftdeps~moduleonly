@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "a262a79669b536f98b4c7342405cb014"
+build_time: [1591582671, 665343000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/DetailedViewApp/DetailedViewApp/ViewController.swift": [1591582668, 430494792]
+  "/Users/marvinevins/Library/Autosave Information/DetailedViewApp/DetailedViewApp/AppDelegate.swift": [1591578265, 36443573]
+  "/Users/marvinevins/Library/Autosave Information/DetailedViewApp/DetailedViewApp/SecondVC.swift": [1591581934, 220364096]
+  "/Users/marvinevins/Library/Autosave Information/DetailedViewApp/DetailedViewApp/SceneDelegate.swift": [1591578265, 49977741]

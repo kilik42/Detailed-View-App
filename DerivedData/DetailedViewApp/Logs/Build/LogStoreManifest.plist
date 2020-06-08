@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>050079FB-17CE-4091-8679-8C2BC9FB371A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>050079FB-17CE-4091-8679-8C2BC9FB371A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DetailedViewApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DetailedViewApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DetailedViewApp</string>
+			<key>timeStartedRecording</key>
+			<real>613271739.92231095</real>
+			<key>timeStoppedRecording</key>
+			<real>613271741.74840105</real>
+			<key>title</key>
+			<string>Build DetailedViewApp</string>
+			<key>uniqueIdentifier</key>
+			<string>050079FB-17CE-4091-8679-8C2BC9FB371A</string>
+		</dict>
+		<key>7D52BEDF-9D49-4E0F-BA55-054619B0FB68</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D52BEDF-9D49-4E0F-BA55-054619B0FB68.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DetailedViewApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DetailedViewApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DetailedViewApp</string>
+			<key>timeStartedRecording</key>
+			<real>613275471.61404705</real>
+			<key>timeStoppedRecording</key>
+			<real>613275472.30276406</real>
+			<key>title</key>
+			<string>Build DetailedViewApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7D52BEDF-9D49-4E0F-BA55-054619B0FB68</string>
+		</dict>
+		<key>8E861452-5239-4911-B768-128B1999A8D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E861452-5239-4911-B768-128B1999A8D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DetailedViewApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DetailedViewApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DetailedViewApp</string>
+			<key>timeStartedRecording</key>
+			<real>613274595.27646101</real>
+			<key>timeStoppedRecording</key>
+			<real>613274595.61745095</real>
+			<key>title</key>
+			<string>Build DetailedViewApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8E861452-5239-4911-B768-128B1999A8D3</string>
+		</dict>
+		<key>AE75D3D9-71CA-4806-B7CA-CFC8A9783671</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE75D3D9-71CA-4806-B7CA-CFC8A9783671.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DetailedViewApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DetailedViewApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DetailedViewApp</string>
+			<key>timeStartedRecording</key>
+			<real>613275477.28162205</real>
+			<key>timeStoppedRecording</key>
+			<real>613275477.34491706</real>
+			<key>title</key>
+			<string>Build DetailedViewApp</string>
+			<key>uniqueIdentifier</key>
+			<string>AE75D3D9-71CA-4806-B7CA-CFC8A9783671</string>
+		</dict>
+		<key>BAEB34F5-B2F8-4703-BDCA-884275D41BEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BAEB34F5-B2F8-4703-BDCA-884275D41BEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DetailedViewApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DetailedViewApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DetailedViewApp</string>
+			<key>timeStartedRecording</key>
+			<real>613275598.80551898</real>
+			<key>timeStoppedRecording</key>
+			<real>613275601.72487295</real>
+			<key>title</key>
+			<string>Build DetailedViewApp</string>
+			<key>uniqueIdentifier</key>
+			<string>BAEB34F5-B2F8-4703-BDCA-884275D41BEB</string>
+		</dict>
+		<key>C10B74B9-58FC-427D-9CC6-1377F3ED9EDE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C10B74B9-58FC-427D-9CC6-1377F3ED9EDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DetailedViewApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DetailedViewApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DetailedViewApp</string>
+			<key>timeStartedRecording</key>
+			<real>613275915.58900702</real>
+			<key>timeStoppedRecording</key>
+			<real>613275918.83345902</real>
+			<key>title</key>
+			<string>Build DetailedViewApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C10B74B9-58FC-427D-9CC6-1377F3ED9EDE</string>
+		</dict>
+		<key>DF93F09D-AD74-47F6-8E29-B39F0BE41C32</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF93F09D-AD74-47F6-8E29-B39F0BE41C32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DetailedViewApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DetailedViewApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DetailedViewApp</string>
+			<key>timeStartedRecording</key>
+			<real>613274784.79488301</real>
+			<key>timeStoppedRecording</key>
+			<real>613274788.81952202</real>
+			<key>title</key>
+			<string>Build DetailedViewApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DF93F09D-AD74-47F6-8E29-B39F0BE41C32</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
